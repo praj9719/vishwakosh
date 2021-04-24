@@ -6,7 +6,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello():
-    return jsonify("Hello World")
+    return jsonify("Hello google cloud")
 
 
 if __name__ == '__main__':
