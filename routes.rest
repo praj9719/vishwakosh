@@ -1,0 +1,16 @@
+
+### Regional Chat Bot
+
+GET  https://qnabot-311516.el.r.appspot.com/  HTTP/1.1
+content-type: application/json
+
+
+
+### Reverse String
+
+POST  https://qnabot-311516.el.r.appspot.com/test HTTP/1.1
+content-type: application/json
+
+{
+    "message": "Prajwal"
+}
