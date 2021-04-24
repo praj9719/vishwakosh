@@ -4,7 +4,14 @@
 GET  https://qnabot-311516.el.r.appspot.com/  HTTP/1.1
 content-type: application/json
 
+### Bot
 
+POST  https://qnabot-311516.el.r.appspot.com/bot HTTP/1.1
+content-type: application/json
+
+{
+    "message": "what is diode"
+}
 
 ### Reverse String
 

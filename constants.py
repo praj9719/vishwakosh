@@ -17,3 +17,9 @@ message = "message"
 
 input_text = "message"
 
+# Bots
+science = {
+    "name": "Science Bot",
+    "database": "bots/science/database",
+    "model": "bots/science/model/Science"
+}
